@@ -1,6 +1,6 @@
 name=Decree of Annihilation
 image=http://mtgimage.com/card/decree%20of%20annihilation.jpg
-value=2.500
+value=4.272
 rarity=R
 type=Sorcery
 cost={8}{R}{R}
