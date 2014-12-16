@@ -1,6 +1,6 @@
 name=Goblin Goon
 image=http://mtgimage.com/card/goblin%20goon.jpg
-value=2.500
+value=3.607
 rarity=R
 type=Creature
 subtype=Goblin,Mutant
