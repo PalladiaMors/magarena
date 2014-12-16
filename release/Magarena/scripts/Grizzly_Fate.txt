@@ -1,6 +1,6 @@
 name=Grizzly Fate
 image=http://mtgimage.com/card/grizzly%20fate.jpg
-value=2.500
+value=4.234
 rarity=U
 type=Sorcery
 cost={3}{G}{G}
